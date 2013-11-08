@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/jasonify/MailFoo'
+let g:netrw_dirhist_2='/Users/jasonify/Playground/180Days'
+let g:netrw_dirhist_3='/Users/jasonify'
+let g:netrw_dirhist_4='/Users/jasonify/MailFoo'
+let g:netrw_dirhist_5='/Users/jasonify'
+let g:netrw_dirhist_6='/Users/jasonify/MailFoo'
+let g:netrw_dirhist_7='/Users/jasonify'
+let g:netrw_dirhist_8='/Users/jasonify/MailFoo'
+let g:netrw_dirhist_9='/Users/jasonify/Library/Application Support/Sublime Text 2/Packages/User'
